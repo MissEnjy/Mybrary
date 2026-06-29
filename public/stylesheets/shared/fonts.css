@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("/fonts/SairaCondensed-Black.woff2") format("woff2"),
+    url("/fonts/SairaCondensed-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("/fonts/SairaCondensed-ExtraLight.woff2") format("woff2"),
+    url("/fonts/SairaCondensed-ExtraLight.woff") format("woff");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("/fonts/SairaCondensed-Thin.woff2") format("woff2"),
+    url("/fonts/SairaCondensed-Thin.woff") format("woff");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("/fonts/SairaCondensed-Light.woff2") format("woff2"),
+    url("/fonts/SairaCondensed-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("/fonts/SairaCondensed-Regular.woff2") format("woff2"),
+    url("SairaCondensed-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("/fonts/SairaCondensed-ExtraBold.woff2") format("woff2"),
+    url("/fonts/SairaCondensed-ExtraBold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("/fonts/SairaCondensed-Medium.woff2") format("woff2"),
+    url("/fonts/SairaCondensed-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Saira Condensed";
+  src: url("/fonts/SairaCondensed-SemiBold.woff2") format("woff2"),
+    url("/fonts/SairaCondensed-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Saira Condensed Condensed";
+  src: url("/fonts/SairaCondensed-Bold.woff2") format("woff2"),
+    url("/fonts/SairaCondensed-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
